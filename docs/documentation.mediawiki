@@ -1,7 +1,7 @@
 
 <h2>The first graphic seed phrase converter system</h2><br>
 ==Introduction==
-The system is written in c++ based on bip39, it has 12 words that give you access to the private key.<br>
+The system is written in python based on bip39, it has 12 words that give you access to the private key.<br>
 So we have 12 words of a 2048 total words file equal to a mathematical rapresentation of 2^132<br>
 
 ==How it works?==
