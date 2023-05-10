@@ -4,8 +4,9 @@ The first graphic seed phrase converter system
 
 </h2>
 
-  
-==Introduction== The system is written in python based on bip39, it has
+## Introduction
+
+The system is written in python based on bip39, it has
 12 words that give you access to the private key.  
 So we have 12 words of a 2048 total words file equal to a mathematical
 rapresentation of 2^132  
